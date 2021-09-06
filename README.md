@@ -1,4 +1,4 @@
-## Niko Guerrero—@nikoguerrero
+## Niko—
 
 Hi, I'm Nicole, better known as **Niko**— a Front-End Development student at Laboratoria 🇨🇱.
 
