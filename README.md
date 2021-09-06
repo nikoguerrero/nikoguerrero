@@ -21,8 +21,8 @@ You can find me on [![LinkedIn][1.2]][1], [![Instagram][2.2]][2], or at ni.guerr
 
 <!-- Icons -->
 
-[1.2]: https://img.icons8.com/offices/30/000000/linkedin.png
-[2.2]: https://img.icons8.com/offices/30/000000/instagram-new.png
+[1.2]: https://img.icons8.com/dusk/32/000000/linkedin.png
+[2.2]: https://img.icons8.com/dusk/32/000000/instagram-new.png
 
 <!-- Links to your social media accounts -->
 
