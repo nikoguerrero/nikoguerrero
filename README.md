@@ -12,9 +12,9 @@ Hi, I'm Nicole, better known as **Niko**— a Front-End Development student at L
 ```
 Besides programming, I'm a copywriter/editor and a lingüist.
 I love film photography, books, games and skating 🛹 
-But most of all, I've always had a thirst for **learning**, reasons why I'm changing careers.
+But most of all, I've always had a thirst for learning, that's why I'm changing careers.
 ```
-## ![](https://img.icons8.com/external-justicon-lineal-color-justicon/64/000000/external-gmail-social-media-justicon-lineal-color-justicon.png) Contact
+## ✉️ Contact
 
 <!-- Actual text -->
 
@@ -22,8 +22,8 @@ You can find me on [![LinkedIn][1.2]][1], [![Instagram][2.2]][2], or at ni.guerr
 
 <!-- Icons -->
 
-[1.2]: https://img.icons8.com/external-justicon-lineal-color-justicon/64/000000/external-linkedin-social-media-justicon-lineal-color-justicon.png
-[2.2]: https://img.icons8.com/external-justicon-lineal-color-justicon/64/000000/external-instagram-social-media-justicon-lineal-color-justicon.png
+[1.2]: https://img.icons8.com/external-justicon-lineal-color-justicon/32/000000/external-linkedin-social-media-justicon-lineal-color-justicon.png
+[2.2]: https://img.icons8.com/external-justicon-lineal-color-justicon/32/000000/external-instagram-social-media-justicon-lineal-color-justicon.png
 
 <!-- Links to your social media accounts -->
 
