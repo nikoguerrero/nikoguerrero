@@ -1,4 +1,4 @@
-## Niko—
+## Niko— <img src="https://img.icons8.com/external-justicon-lineal-color-justicon/64/000000/external-cat-animal-justicon-lineal-color-justicon-1.png"/>
 
 Hi, I'm Nicole, better known as **Niko**— a Front-End Development student at Laboratoria 🇨🇱.
 
