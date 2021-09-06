@@ -12,7 +12,7 @@ Hi, I'm Nicole, better known as **Niko**— a Front-End Development student at L
 ```
 Besides programming, I'm a copywriter/editor and a lingüist.
 I love film photography, books, games and skating 🛹 
-But most of all, I've always had a thirst for learning, that's why I'm changing careers.
+But most of all, I've always had a thirst for learning.
 ```
 ## ✉️ Contact
 
