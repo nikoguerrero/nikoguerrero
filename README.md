@@ -2,7 +2,7 @@
 
 Hi, I'm Nicole, better known as **Niko**— a Front-End Development student at Laboratoria 🇨🇱.
 
-- 📚 Currently learning: NodeJs, Firebase.
+- 📚 Currently learning: Firebase, React, Bootstrap.
 - 💻 Working with: JavaScript, NodeJS, Firebase, HTML and CSS.
 - 🛠 Other tools: Git, Photoshop, Notion, Trello.
 ---
