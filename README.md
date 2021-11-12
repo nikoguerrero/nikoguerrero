@@ -1,6 +1,6 @@
 ## <img src="https://img.icons8.com/clouds/100/000000/cat.png"/> Niko
 
-Hi, I'm Nicole, better known as **Niko**— a Front-End Development student at Laboratoria 🇨🇱.
+Hi, I'm Nicole, better known as **Niko**— a Front-End Developer from Laboratoria 🇨🇱.
 
 - 📚 Currently learning: Firebase, Redux, Sass.
 - 💻 Working with: JavaScript, React, NodeJS, Firebase, HTML and CSS.
