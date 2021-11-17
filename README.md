@@ -2,7 +2,7 @@
 
 Hi, I'm Nicole, better known as **Niko**— a Front-End Developer from Laboratoria 🇨🇱.
 
-- 📚 Currently learning: Firebase, Redux, Sass.
+- 📚 Currently learning: Angular, Bootstrap, Sass.
 - 💻 Working with: JavaScript, React, NodeJS, Firebase, HTML and CSS.
 - 🛠 Other tools: Git, Photoshop, InDesign, Notion, Trello.
 ---
