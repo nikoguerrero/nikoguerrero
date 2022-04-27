@@ -1,10 +1,10 @@
 ## <img src="https://img.icons8.com/clouds/100/000000/cat.png"/> Niko
 
-Hi, I'm Nicole, better known as **Niko**— a Front-End Developer from Laboratoria 🇨🇱.
+Hi, I'm **Niko**— a Front-End Developer.
 
-- 📚 Currently learning: Redux, Bootstrap, Sass.
-- 💻 Working with: JavaScript, React, NodeJS, Firebase, HTML and CSS.
-- 🛠 Other tools: Git, Photoshop, InDesign, Notion, Trello.
+- 📚 Currently learning: Typescript, GraphQL.
+- 💻 Working with: JavaScript, React, NodeJS, ExpressJS, Firebase, HTML, CSS and Sass.
+- 🛠 Other tools: Git, Photoshop, InDesign, Notion, Trello, Jira.
 ---
 
 ## About me
