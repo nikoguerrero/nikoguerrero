@@ -26,7 +26,7 @@ You can find me on [![LinkedIn][1.2]][1], [![Instagram][2.2]][2], or at ni.guerr
 
 <!-- Links to your social media accounts -->
 
-[1]: https://www.linkedin.com/in/nicole-guerrero-rodr%C3%ADguez-234713a5/](https://www.linkedin.com/in/nikoguerrero/
+[1]: https://www.linkedin.com/in/nikoguerrero/
 [2]: https://www.instagram.com/vekid/
 
 <!--
