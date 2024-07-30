@@ -1,16 +1,16 @@
 ## <img src="https://img.icons8.com/clouds/100/000000/cat.png"/> Niko
 
-Hi, I'm **Niko**— a Front-End Developer.
+Hi, I'm **Niko**— a Software Developer.
 
 - 📚 Currently learning: Typescript, GraphQL.
-- 💻 Working with: JavaScript, React, NodeJS, ExpressJS, Firebase, HTML, CSS and Sass.
-- 🛠 Other tools: Git, Photoshop, InDesign, Notion, Trello, Jira.
+- 💻 Working with: JavaScript, React, React Native, NodeJS, ExpressJS, MongoDB, Firebase, HTML, CSS, Tailwind and Sass.
+- 🛠 Other tools: Git, Photoshop, InDesign, Docker.
 ---
 
 ## About me
 
 ```
-Besides programming, I'm a copywriter/editor and a lingüist.
+Before I became a programmer, I was a copywriter/editor and a philologist.
 I love film photography, books, games and skateboarding 🛹 
 ```
 ## ✉️ Contact
